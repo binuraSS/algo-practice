@@ -1,0 +1,8 @@
+.venv
+/.venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd       
+recepit_reader_DS/venv/
+venv/
